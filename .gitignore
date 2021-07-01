@@ -2,3 +2,7 @@ build/*
 .idea/*
 *.tmp
 *.swap
+*.user
+*.autosave
+*.log
+/src/project_defines.h

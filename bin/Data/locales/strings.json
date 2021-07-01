@@ -1,0 +1,146 @@
+{
+  "Lang": {
+    "fr": "Langage: Francais"
+  },
+  "Exit": {
+    "fr": "Quitter"
+  },
+  "Press this button": {
+    "fr": "Appuyez sur ce bouton"
+  },
+  "Title": {
+    "fr": "Titre"
+  },
+  "Play": {
+    "fr": "Jouer"
+  },
+  "Singleplayer": {
+    "fr": "Un joueur"
+  },
+  "Multiplayer": {
+    "fr": "Multijoueur"
+  },
+  "Settings": {
+    "fr": "Options"
+  },
+  "Graphics": {
+    "fr": "Graphismes"
+  },
+  "Sound": {
+    "fr": "Son"
+  },
+  "Keyboard": {
+    "fr": "Clavier"
+  },
+  "Back": {
+    "fr": "Retour"
+  },
+  "New game": {
+    "fr": "Nouvelle partie"
+  },
+  "Load game": {
+    "fr": "Charger une partie"
+  },
+  "New universe": {
+    "fr": "Nouvel univers"
+  },
+  "Load universe": {
+    "fr": "Chargement d'un univers"
+  },
+  "Universe age: ": {
+    "fr": "Age de l'univers: "
+  },
+  "Create": {
+    "fr": "Créer"
+  },
+  "Cancel": {
+    "fr": "Annuler"
+  },
+  "Universe Name: ": {
+    "fr": "Nom de l'univers : "
+  },
+  "Seed: ": {
+    "fr": "Seed: "
+  },
+  "Generate seed": {
+    "fr": "Générer un seed"
+  },
+  "Universe %s already exists": {
+    "fr": "L'univers %s existe déjà"
+  },
+  "Universe name is empty": {
+    "fr": "Le nom de l'univers est vide"
+  },
+  "Universe seed is empty": {
+    "fr": "Le seed est vide"
+  },
+  "You must select a universe.": {
+    "fr": "Vous devez sélectionner un univers."
+  },
+  "Launch": {
+    "fr": "Lancer"
+  },
+  "No universe found": {
+    "fr": "Pas d'univers trouvé"
+  },
+  "Textures/no_preview.png": {
+    "fr": "Textures/no_preview_fr.png"
+  },
+  "Loading...": {
+    "fr": "Chargement..."
+  },
+  "Not started.": {
+    "fr": "Non démarré."
+  },
+  "Game DB backend inited.": {
+    "fr": "Base de données du jeu initialisée."
+  },
+  "Started!": {
+    "fr": "Démarré !"
+  },
+  "Failed!": {
+    "fr": "Echec !"
+  },
+  "Full screen": {
+    "fr": "Plein écran "
+  },
+  "Sound Master: ":{
+    "fr": "Son principal: "
+  },
+  "Sound Music: ":{
+    "fr": "Son musique: "
+  },
+  "Sound Effect: ":{
+    "fr": "Son effet: "
+  },
+  "Sound Ambient: ":{
+    "fr": "Son d'ambiance: "
+  },
+  "Sound Voice: ":{
+    "fr": "Son voix: "
+  },
+  "Delete universe":{
+    "fr": "Effacer l'univers"
+  },
+  "Do you want really delete universe: %s ?":{
+    "fr": "Voulez-vous vraiment effacer l'univers: %s ?"
+  },
+  "Universe %s deleted":{
+    "fr": "Univers %s effacé"
+  },
+  "Resume":{
+    "fr": "Reprendre"
+  },
+  "Back to main menu":{
+    "fr": "Retour au menu principal"
+  },
+  "Exit the game":{
+    "fr": "Quitter le jeu"
+  },
+  "Apply":{
+    "fr": "Appliquer"
+  },
+  "Control":{
+    "fr": "Controle"
+  }
+}
